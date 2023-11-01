@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 My name is Maria Borodkina, and I have a +15-year experience in sales support and analytics. During 9 years at Bonava (my latest employer), I went on a journey from the Sales Legal Support Specialist to Head of Sales Back Office and, finally, Head of Sales Analytics and Automation. I graduated from Data Science and I am considering any junior positions in data science as a starting point for applying my knowledge in practice and further professional development.
 
-<a href="blue">Data Science languages and tools</a>
-### Data Science languages and tools:
+<a href="blue">### Data Science languages and tools:</a>
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebook, SQL, GitHub, Catboost
