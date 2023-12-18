@@ -21,7 +21,7 @@ My name is Maria Borodkina, and I have a +15-year experience in sales support an
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebook, SQL, GitHub, Catboost
 
-<a href="blue">Overview of the repository and completed projects:</a>
+<a href="blue">Overview of the repositories and completed projects:</a>
 
 | Project name | Descripton | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
