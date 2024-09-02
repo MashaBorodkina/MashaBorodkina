@@ -40,5 +40,5 @@ https://fitalchemy.me/
 
 | Project name | Descripton | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/eeeb1ef14850788e97f3c096fea1486a1ff37331/Calc_fat/calc.py)| Calculating body fat percentage| *Pytho Pandas Streamlit* |
+| [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/eeeb1ef14850788e97f3c096fea1486a1ff37331/Calc_fat/calc.py)| Calculating body fat percentage| *Python Pandas Streamlit* |
 | [PySpark_Stock_Prices](https://github.com/MashaBorodkina/PySpark/blob/abcde721038bde9a166df025e6b7592bfbf76bf5/Pyspark_Stock_Prices.ipynb)| Stock prices analysis| *PySpark* |
