@@ -19,7 +19,7 @@ My name is Maria Borodkina, and I have a +15-year experience in sales support an
 
 <a href="blue">Data Science languages and tools:</a>
 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Jupyter Notebook, SQL, GitHub, Catboost
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catboost, Jupyter Notebook, SQL, PostgreSQL
 
 <a href="blue">My website:</a>
 
