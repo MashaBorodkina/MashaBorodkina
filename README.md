@@ -27,6 +27,8 @@ https://fitalchemy.me/
 
 <a href="green">Overview of the repositories and completed projects:</a>
 
+## 🎓 Educational Projects
+
 | Project name | Descripton | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Linear_Algebra_client_data_protection](https://github.com/MashaBoro/Yandex_practicum_project/blob/0844afe50ced3fc0c8bc1855351c2a8941df875f/Linear_Algebra_client_data_protection/Linear_Algebra_client_data_protection.ipynb)| Develop a method for transforming data so that it is difficult to recover personal information from it. Justify the correctness of its operation.| *Python Numpy Scikit-learn* |
@@ -38,7 +40,9 @@ https://fitalchemy.me/
 |[Neural_networks_processing_photo](https://github.com/MashaBoro/Yandex_practicum_project/blob/c5262c543963363fcad02a39ced54c316cae1f35/Neural_networks_processing_photo/Neural_networks_processing_photo.ipynb)| Build and train a neural network for processing buyer photos|*Python Keras*|
 |[SQL_Startup_investments](https://github.com/MashaBorodkina/Yandex_practicum_project/blob/339c804f9f82e894f284f9258154da4484e41d35/SQL_Startup_Investments/sql-startup-invesments.ipynb)| Analizing data of founds and investments|*SQLite3*|
 
-| Project name | Descripton | Libraries used | 
+## 💼 Freelance Projects
+
+| Project name | Descripton | Libraries and Technologies used | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/eeeb1ef14850788e97f3c096fea1486a1ff37331/Calc_fat/calc.py)| Calculating body fat percentage| *Python Pandas Streamlit* |
 | [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/4d0c025d943b437ff7c20a4abbae43194f1782a2/Calc_fat/calc.html)| Calculating body fat percentage| *HTML CSS JavaScript* |
