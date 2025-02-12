@@ -45,6 +45,6 @@ https://fitalchemy.me/
 | Project name | Descripton | Libraries and Technologies used | Demo |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/eeeb1ef14850788e97f3c096fea1486a1ff37331/Calc_fat/calc.py)| Calculating body fat percentage| *Python Pandas Streamlit* |
-| [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/4d0c025d943b437ff7c20a4abbae43194f1782a2/Calc_fat/calc.html)| Calculating body fat percentage| *HTML CSS JavaScript* | [live Demo](https://fitalchemy.me/#1b34d743-16e2-417d-8d45-99898eae0581)
+| [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/4d0c025d943b437ff7c20a4abbae43194f1782a2/Calc_fat/calc.html)| Calculating body fat percentage| *HTML CSS JavaScript* | [Live Demo](https://fitalchemy.me/#1b34d743-16e2-417d-8d45-99898eae0581)
 | [PySpark_Stock_Prices](https://github.com/MashaBorodkina/PySpark/blob/abcde721038bde9a166df025e6b7592bfbf76bf5/Pyspark_Stock_Prices.ipynb)| Stock prices analysis| *PySpark* |
 | [Service-Fee-Calculator](https://github.com/MashaBorodkina/Service-Fee-Calculator/blob/76b31eb4fdc1d052a5eb621296c08d1119666e76/index.html)| Calculates service costs and allows submitting a request with file attachments| *HTML JavaScript CSS PHP* | [Live Demo](https://mashaborodkina.github.io/Service-Fee-Calculator/) |
