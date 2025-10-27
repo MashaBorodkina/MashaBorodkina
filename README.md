@@ -44,6 +44,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catbo
 | [OOP Mini-Project: Book Lender](https://github.com/MashaBorodkina/G65-OOP-BookLender-Workshop/tree/Maria-B) | OOP mini-project simulating a book lending system (classes, objects, encapsulation). | *Java, OOP* |
 | [G56-OOP-VendingMachine-Workshop](https://github.com/MashaBorodkina/G56-OOP-VendingMachine-Workshop/tree/Maria_B/) | OOP workshop implementing a candy vending machine in Java: accepts predefined currency, lets users select products, returns change; products via interface/abstract class; exposes `VendingMachine` API with methods like `addCurrency`, `request`, `endSession`, `getDescription`, `getBalance`, `getProducts`. | *Java, OOP (Interfaces, Abstract Classes)* |
 | [G56-SchoolManagement-workshop](https://github.com/MashaBorodkina/G56-SchoolManagement-workshop/tree/Maria_B) | Java CLI app for managing students and courses using collections and DAO pattern; supports create/read/update/delete, course registration, and search, with unit tests. | *Java, Collections, DAO, JUnit 5, java.time* |
+| [G56-Lambda-Workshop](https://github.com/MashaBorodkina/G56-Lambda-Workshop/tree/Maria_B_workshop) | Stream API exercises over a people collection: filter by first name/gender/birthdate/ID, map to formatted strings, custom find/do actions (palindromes, “name in surname”), and sorting (by birthdate, reverse, multi-key). | *Java, Stream API, Lambda Expressions, Comparator, java.time* |
 
 ## 💼 Freelance Projects
 
