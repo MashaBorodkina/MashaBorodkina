@@ -40,7 +40,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catbo
 | **Lexicon / Arbetsförmedlingen (Full Stack Java Developer)** |||
 | [HTML_CSS_Lexicon](https://github.com/MashaBorodkina/HTML_CSS_Lexicon)| A simple responsive web page layout built with HTML and CSS. Includes product cards, sticky header, footer, and hover effects.| *HTML, CSS* |
 | [Grid_HTML_CSS](https://github.com/MashaBorodkina/grid_html_css)| Responsive grid layout with product cards and a “Useful information” section (semantic HTML: article/aside/nav), sticky header, footer, and hover effects. | *HTML, CSS* |
-[G56-NameRepository-Workshop](https://github.com/MashaBorodkina/G56-NameRepository-Workshop) | Java console application for managing a list of names — supports adding, finding, updating, and removing entries with JUnit 5 tests. | *Java, JUnit 5* |
+| [G56-Arrays & Strings-Workshop](https://github.com/MashaBorodkina/G56-Array-Workshop) | Java console application for managing a list of names — supports adding, finding, updating, and removing entries with JUnit 5 tests. | *Java, JUnit 5* |
 
 ## 💼 Freelance Projects
 
