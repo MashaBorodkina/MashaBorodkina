@@ -43,6 +43,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catbo
 | [G56-Arrays & Strings-Workshop](https://github.com/MashaBorodkina/G56-Array-Workshop) | Java console application for managing a list of names — supports adding, finding, updating, and removing entries with JUnit 5 tests. | *Java, JUnit 5* |
 | [OOP Mini-Project: Book Lender](https://github.com/MashaBorodkina/G65-OOP-BookLender-Workshop/tree/Maria-B) | OOP mini-project simulating a book lending system (classes, objects, encapsulation). | *Java, OOP* |
 | [G56-OOP-VendingMachine-Workshop](https://github.com/MashaBorodkina/G56-OOP-VendingMachine-Workshop/tree/Maria_B/) | OOP workshop implementing a candy vending machine in Java: accepts predefined currency, lets users select products, returns change; products via interface/abstract class; exposes `VendingMachine` API with methods like `addCurrency`, `request`, `endSession`, `getDescription`, `getBalance`, `getProducts`. | *Java, OOP (Interfaces, Abstract Classes)* |
+| [G56-SchoolManagement-workshop]((https://github.com/MashaBorodkina/G56-SchoolManagement-workshop/tree/Maria_B) | Java CLI app for managing students and courses using collections and DAO pattern; supports create/read/update/delete, course registration, and search, with unit tests. | *Java, Collections, DAO, JUnit 5, java.time* |
 
 ## 💼 Freelance Projects
 
