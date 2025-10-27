@@ -38,6 +38,7 @@ https://fitalchemy.me/
 |[ML_in_business](https://github.com/MashaBoro/Yandex_practicum_project/blob/2d1a3df9071b6c42e6dca22309530f032a4ebf07/ML_in_business/ML_in_business.ipynb)| Build a machine learning model that will help determine the region where mining will bring the greatest profit. Analyze the possible profits and risks using the Bootstrap technique.| *Python Pandas Scikit-learn Bootstrap* |
 |[ML_time_series](https://github.com/MashaBoro/Yandex_practicum_project/blob/75066c9de7f0ad06e91e25be3f04763a45e2ed87/ML_time_series/ML_time_series.ipynb)| Build a model to predict the number of taxi orders for the next hour to attract more drivers during peak periods| *Python Pandas Statsmodels Scikit-learn* |
 |[Neural_networks_processing_photo](https://github.com/MashaBoro/Yandex_practicum_project/blob/c5262c543963363fcad02a39ced54c316cae1f35/Neural_networks_processing_photo/Neural_networks_processing_photo.ipynb)| Build and train a neural network for processing buyer photos|*Python Keras*|
+| [PySpark_Stock_Prices](https://github.com/MashaBorodkina/PySpark/blob/abcde721038bde9a166df025e6b7592bfbf76bf5/Pyspark_Stock_Prices.ipynb)| Stock prices analysis| *PySpark* |
 |[SQL_Startup_investments](https://github.com/MashaBorodkina/Yandex_practicum_project/blob/339c804f9f82e894f284f9258154da4484e41d35/SQL_Startup_Investments/sql-startup-invesments.ipynb)| Analizing data of founds and investments|*SQLite3*|
 
 ## 💼 Freelance Projects
@@ -46,5 +47,4 @@ https://fitalchemy.me/
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/eeeb1ef14850788e97f3c096fea1486a1ff37331/Calc_fat/calc.py)| Calculating body fat percentage| *Python Pandas Streamlit* |
 | [Body Fat Calculator](https://github.com/MashaBorodkina/-Fitalchemy/blob/4d0c025d943b437ff7c20a4abbae43194f1782a2/Calc_fat/calc.html)| Calculating body fat percentage| *HTML CSS JavaScript* | [Live Demo](https://fitalchemy.me/#1b34d743-16e2-417d-8d45-99898eae0581)
-| [PySpark_Stock_Prices](https://github.com/MashaBorodkina/PySpark/blob/abcde721038bde9a166df025e6b7592bfbf76bf5/Pyspark_Stock_Prices.ipynb)| Stock prices analysis| *PySpark* |
 | [Service-Fee-Calculator](https://github.com/MashaBorodkina/Service-Fee-Calculator/blob/76b31eb4fdc1d052a5eb621296c08d1119666e76/index.html)| Calculates service costs and allows submitting a request with file attachments| *HTML JavaScript CSS PHP* | [Live Demo](https://mashaborodkina.github.io/Service-Fee-Calculator/) |
