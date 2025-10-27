@@ -42,7 +42,7 @@ https://fitalchemy.me/
 | [PySpark_Stock_Prices](https://github.com/MashaBorodkina/PySpark/blob/abcde721038bde9a166df025e6b7592bfbf76bf5/Pyspark_Stock_Prices.ipynb)| Stock prices analysis| *PySpark* |
 |[SQL_Startup_investments](https://github.com/MashaBorodkina/Yandex_practicum_project/blob/339c804f9f82e894f284f9258154da4484e41d35/SQL_Startup_Investments/sql-startup-invesments.ipynb)| Analizing data of founds and investments|*SQLite3*|
 | **Lexicon / Arbetsförmedlingen (Full Stack Java Developer)** |||
-|
+| [Project name	Description	Technologies used HTML_CSS_Lexicon](https://github.com/MashaBorodkina/HTML_CSS_Lexicon.git)| A simple responsive web page layout built with HTML and CSS. Includes product cards, sticky header, footer, and hover effects.| *HTML, CSS* |
 
 ## 💼 Freelance Projects
 
