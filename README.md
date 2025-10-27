@@ -41,7 +41,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catbo
 | [HTML_CSS_Lexicon](https://github.com/MashaBorodkina/HTML_CSS_Lexicon)| A simple responsive web page layout built with HTML and CSS. Includes product cards, sticky header, footer, and hover effects.| *HTML, CSS* |
 | [Grid_HTML_CSS](https://github.com/MashaBorodkina/grid_html_css)| Responsive grid layout with product cards and a “Useful information” section (semantic HTML: article/aside/nav), sticky header, footer, and hover effects. | *HTML, CSS* |
 | [G56-Arrays & Strings-Workshop](https://github.com/MashaBorodkina/G56-Array-Workshop) | Java console application for managing a list of names — supports adding, finding, updating, and removing entries with JUnit 5 tests. | *Java, JUnit 5* |
-| [OOP Mini-Project: Book Lender](https://github.com/MashaBorodkina/G65-OOP-BookLender-Workshop) | 
+| [OOP Mini-Project: Book Lender](https://github.com/MashaBorodkina/G65-OOP-BookLender-Workshop/tree/Maria-B) | OOP mini-project simulating a book lending system (classes, objects, encapsulation). | *Java, OOP* |
 
 ## 💼 Freelance Projects
 
