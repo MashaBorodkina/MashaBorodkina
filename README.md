@@ -31,7 +31,7 @@ https://fitalchemy.me/
 
 | Project name | Descripton | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| ## Yandex Practicum (Python, SQL, Data Science)
+| **Yandex Practicum (Python, SQL, Data Science)** |||
 | [Linear_Algebra_client_data_protection](https://github.com/MashaBoro/Yandex_practicum_project/blob/0844afe50ced3fc0c8bc1855351c2a8941df875f/Linear_Algebra_client_data_protection/Linear_Algebra_client_data_protection.ipynb)| Develop a method for transforming data so that it is difficult to recover personal information from it. Justify the correctness of its operation.| *Python Numpy Scikit-learn* |
 |[ML_Technological_process_of_gold_processing](https://github.com/MashaBoro/Yandex_practicum_project/blob/73e4c1ab9f2c5000016ddee7af1b55d21adf2101/ML_Technological_process_of_gold_processing/ML_Technological_process_of_gold_processing.ipynb)| It is necessary to prepare a prototype of a machine learning model. The model must predict the recovery rate of gold from gold ore.| *Python Pandas Numpy Matplotlib Scikit-learn Исследовательский анализ* |
 | [ML_customer_classification](https://github.com/MashaBoro/Yandex_practicum_project/blob/146761390329a0cc209c242863aa4968d22e664c/ML_customer_classification/ML_customer_classification.ipynb) | A telecom operator wants to learn how to predict customer churn. If it turns out that the user plans to leave, he will be offered promotional codes and special conditions.| *Python Pandas Matplotlib Scikit-learn Исследовательский анализ Классификация* |
@@ -41,6 +41,8 @@ https://fitalchemy.me/
 |[Neural_networks_processing_photo](https://github.com/MashaBoro/Yandex_practicum_project/blob/c5262c543963363fcad02a39ced54c316cae1f35/Neural_networks_processing_photo/Neural_networks_processing_photo.ipynb)| Build and train a neural network for processing buyer photos|*Python Keras*|
 | [PySpark_Stock_Prices](https://github.com/MashaBorodkina/PySpark/blob/abcde721038bde9a166df025e6b7592bfbf76bf5/Pyspark_Stock_Prices.ipynb)| Stock prices analysis| *PySpark* |
 |[SQL_Startup_investments](https://github.com/MashaBorodkina/Yandex_practicum_project/blob/339c804f9f82e894f284f9258154da4484e41d35/SQL_Startup_Investments/sql-startup-invesments.ipynb)| Analizing data of founds and investments|*SQLite3*|
+| **Lexicon / Arbetsförmedlingen (Full Stack Java Developer)** |||
+|
 
 ## 💼 Freelance Projects
 
