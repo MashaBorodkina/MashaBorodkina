@@ -43,7 +43,7 @@ https://fitalchemy.me/
 |[SQL_Startup_investments](https://github.com/MashaBorodkina/Yandex_practicum_project/blob/339c804f9f82e894f284f9258154da4484e41d35/SQL_Startup_Investments/sql-startup-invesments.ipynb)| Analizing data of founds and investments|*SQLite3*|
 | **Lexicon / Arbetsförmedlingen (Full Stack Java Developer)** |||
 | [HTML_CSS_Lexicon](https://github.com/MashaBorodkina/HTML_CSS_Lexicon.git)| A simple responsive web page layout built with HTML and CSS. Includes product cards, sticky header, footer, and hover effects.| *HTML, CSS* |
-| [grid_html_css](https://github.com/MashaBorodkina/grid_html_css.git)| Responsive grid layout with product cards and a “Useful information” section (semantic HTML: article/aside/nav), sticky header, footer, and hover effects. | *HTML, CSS* |
+| [Grid_HTML_CSS](https://github.com/MashaBorodkina/grid_html_css)| Responsive grid layout with product cards and a “Useful information” section (semantic HTML: article/aside/nav), sticky header, footer, and hover effects. | *HTML, CSS* |
 
 ## 💼 Freelance Projects
 
