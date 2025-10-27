@@ -21,10 +21,6 @@ My name is Maria Borodkina, and I have a +15-year experience in sales support an
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catboost, Jupyter Notebook, SQL, PostgreSQL
 
-<a href="green">My website:</a>
-
-https://fitalchemy.me/
-
 <a href="green">Overview of the repositories and completed projects:</a>
 
 ## 🎓 Educational Projects
