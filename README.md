@@ -42,6 +42,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catbo
 | [Grid_HTML_CSS](https://github.com/MashaBorodkina/grid_html_css)| Responsive grid layout with product cards and a “Useful information” section (semantic HTML: article/aside/nav), sticky header, footer, and hover effects. | *HTML, CSS* |
 | [G56-Arrays & Strings-Workshop](https://github.com/MashaBorodkina/G56-Array-Workshop) | Java console application for managing a list of names — supports adding, finding, updating, and removing entries with JUnit 5 tests. | *Java, JUnit 5* |
 | [OOP Mini-Project: Book Lender](https://github.com/MashaBorodkina/G65-OOP-BookLender-Workshop/tree/Maria-B) | OOP mini-project simulating a book lending system (classes, objects, encapsulation). | *Java, OOP* |
+| [G56-OOP-VendingMachine-Workshop](https://github.com/MashaBorodkina/G56-OOP-VendingMachine-Workshop/tree/Maria_B/)) | OOP workshop implementing a candy vending machine in Java: accepts predefined currency, lets users select products, returns change; products via interface/abstract class; exposes `VendingMachine` API with methods like `addCurrency`, `request`, `endSession`, `getDescription`, `getBalance`, `getProducts`. | *Java, OOP (Interfaces, Abstract Classes)* |
 
 ## 💼 Freelance Projects
 
