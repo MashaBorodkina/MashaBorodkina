@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
 
 My name is Maria Borodkina, and I am a software developer based in Stockholm.
 
