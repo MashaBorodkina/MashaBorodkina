@@ -23,7 +23,7 @@ I have 15+ years of professional experience in business environments, including 
 
 My current focus is frontend and full stack development, especially React, JavaScript, Java, and Spring Boot. I also have a background in Data Science, with completed projects in machine learning and data analysis.
 
-<a href="green">Languages and tools</a>
+<a href="green">Languages and tools:</a>
 
 <a href="green">Frontend / Web Development</a>
 JavaScript, React, HTML5, CSS3, JSON, REST APIs, Git, GitHub
