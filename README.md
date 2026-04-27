@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Maria Borodkina, and I have a +15-year experience in sales support and analytics. During 9 years at Bonava (my latest employer), I went on a journey from the Sales Legal Support Specialist to Head of Sales Back Office and, finally, Head of Sales Analytics and Automation. I have recently completed a year-program in Data Science and I am currently considering any junior positions in data science as a starting point for applying my knowledge in practice and further professional development.
+Hi there 👋
+
+My name is Maria Borodkina, and I am a software developer based in Stockholm.
+
+I have over 15 years of professional experience in business environments, including analytics and process optimization. Recently, I completed a Full Stack Software Developer program, where I gained hands-on experience in building web applications using JavaScript, React, HTML, and CSS.
+
+I am currently focused on frontend development and building real-world projects, and I am also learning Go to expand my backend skills.
+
+Here you can find some of my projects and code examples.
 
 <a href="green">Data Science languages and tools:</a>
 
