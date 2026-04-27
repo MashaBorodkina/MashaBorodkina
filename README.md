@@ -31,7 +31,7 @@ JavaScript, React, HTML5, CSS3, JSON, REST APIs, Git, GitHub
 <a href="green">Backend / Full Stack</a>
 Java, Spring Boot, SQL, PostgreSQL
 
-<a href="green">Data Science languages and tools:</a>
+<a href="green">Data Science / Analytics</a>
 
 Python, Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, CatBoost, Jupyter Notebook
 
