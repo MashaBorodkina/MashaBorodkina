@@ -23,7 +23,6 @@ I have over 15 years of professional experience in business environments, includ
 
 I am currently focused on frontend development and building real-world projects, and I am also learning Go to expand my backend skills.
 
-Here you can find some of my projects and code examples.
 
 <a href="green">Data Science languages and tools:</a>
 
