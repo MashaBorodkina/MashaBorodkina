@@ -19,14 +19,20 @@ Hi there 👋
 
 My name is Maria Borodkina, and I am a software developer based in Stockholm.
 
-I have over 15 years of professional experience in business environments, including analytics and process optimization. Recently, I completed a Full Stack Software Developer program, where I gained hands-on experience in building web applications using JavaScript, React, HTML, and CSS.
+I have 15+ years of professional experience in business environments, including analytics, process optimization, and automation. I recently completed a Full Stack Software Developer program, where I gained hands-on experience in building web applications.
 
-I am currently focused on frontend development and building real-world projects, and I am also learning Go to expand my backend skills.
+My current focus is frontend and full stack development, especially React, JavaScript, Java, and Spring Boot. I also have a background in Data Science, with completed projects in machine learning and data analysis.
 
+<a href="green">Languages and tools</a>
+<a href="green">Frontend / Web Development</a>
+JavaScript, React, HTML5, CSS3, JSON, REST APIs, Git, GitHub
+
+<a href="green">Backend / Full Stack</a>
+Java, Spring Boot, SQL, PostgreSQL
 
 <a href="green">Data Science languages and tools:</a>
 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Catboost, Jupyter Notebook, SQL, PostgreSQL
+Python, Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, CatBoost, Jupyter Notebook
 
 <a href="green">Overview of the repositories and completed projects:</a>
 
